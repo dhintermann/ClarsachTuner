@@ -1,0 +1,6 @@
+Privacy Policy "Clarsach Tuner"
+
+The app ("Clarsach Tuner") processes audio data from your device to measure the pitch frequency.
+Additionally, while the app is used device information like screen resolution and activated dark mode is used to display the app content.
+None of this data is stored, collected or transfered. 
+Furthermore, no other information is stored, transfered or collected.
